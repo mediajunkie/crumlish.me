@@ -25,6 +25,8 @@ h2 {
 h3 {
   font-size: 5.5rem;
   line-height: 1;
+  /* Added by Zevy */
+  margin: 0;
 }
 
 p {
@@ -44,7 +46,8 @@ p {
 }
 
 .hero img {
-  margin: 3rem 0;
+  /* Added by Zevy */
+  /* margin: 3rem 0; */
   width: 275px;
 }
 
