@@ -5,6 +5,9 @@
 :root {
   font-family: 'Merriweather', sans-serif;
   font-size: 50%;
+  /* background: rgb(255,255,255);
+/* Zevy added background gradient *you're welcome */
+background: repeating-linear-gradient(90deg, #FEE5E5, #FEE5E5 15vmin, #FFFFFF 20px, #FFFFFF 20vmin);
 }
 
 h1, h2, h3 {
