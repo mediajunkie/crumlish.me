@@ -6,7 +6,7 @@
   font-family: 'Merriweather', sans-serif;
   font-size: 50%;
   /* background: rgb(255,255,255);
-/* Zevy added background gradient *you're welcome */
+/* Zevy added background gradient for stripe pattern *you're welcome */
 background: repeating-linear-gradient(90deg, #FEE5E5, #FEE5E5 15vmin, #FFFFFF 20px, #FFFFFF 20vmin);
 }
 
@@ -54,6 +54,9 @@ p {
 
 .container {
   padding: 100px 2%;
+  /* In case you like center aligned * Zevy*/
+  /* text-align: center */
+  
 }
 
 .logo {
@@ -61,11 +64,42 @@ p {
   width: 10rem;  
 }
 
-.hero img {
-  /* Added by Zevy */
+.titlePicture {
+  /* adjusted by Zevy */
   /* margin: 3rem 0; */
   width: 275px;
 }
+
+.contact{
+}
+
+.contactText{
+  display: inline-block;
+  margin:0;
+  line-height: :0;
+  margin-right: 3vmin;
+
+  
+}
+
+.links{
+  display: inline-flex;
+  width: 50%;
+}
+.icons{
+  margin: 2rem;
+  margin-left: 0;
+  padding: 0;
+  height:4rem;
+}
+
+/* .hero .links{
+  width: 5vmin;
+  height: 5vmin;
+  display: inline-block;
+  
+} */
+
 
 .about {
   display: grid;
