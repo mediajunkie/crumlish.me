@@ -44,6 +44,10 @@ h3 {
   margin: 10vmax 0;
 }
 
+.copyrighttext {
+  font-size: 2.2rem;
+}
+
 
 p {
   color: #737B7D;
@@ -78,8 +82,6 @@ p {
   margin:0;
   line-height: :0;
   margin-right: 3vmin;
-
-  
 }
 
 .links{
