@@ -92,6 +92,11 @@ p {
   padding: 0;
   height:4rem;
   color: #DF8E47;
+  cursor: pointer;
+}
+
+.icons:hover{
+  color: #B67032;
 }
 
 /* .hero .links{
