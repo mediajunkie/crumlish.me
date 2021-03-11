@@ -212,7 +212,7 @@ a:hover {
   color: #000000;
 }
 
-@media (min-width: 650px) {
+@media (min-width: 1050px) {
   .container {
     padding: 100px 20vw;
   }
